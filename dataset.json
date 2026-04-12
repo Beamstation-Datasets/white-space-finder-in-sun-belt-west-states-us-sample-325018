@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in the Sun Belt West US (TX, AZ, NM, NV, LA) that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Sun Belt West States, US",
+  "export_job_id": "88e1b1d7-7f19-48f4-918e-d18434975c19",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 325018,
+  "location_name": "Sun Belt West States",
+  "location_type": "region",
+  "repo_name": "white-space-finder-in-sun-belt-west-states-us-sample-325018",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/325018/beamstation_325018_food_and_drink-xx-all_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 62,
+  "sample_sha256": "1b0740aae5f14a153e491c5bdc0b6f503dbbc7f7ea25598bb2bb61de93e6a662",
+  "sample_size_bytes": 255186,
+  "total_records": 626,
+  "updated_at": "2026-04-09T11:21:12.476813+00:00"
+}
