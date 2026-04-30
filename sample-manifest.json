@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a8c19b79-e62a-4189-af5e-b400d4834bca",
+  "export_job_id": "b52cf8f6-2526-48dd-83f4-7e66dc9dae3e",
   "id_short": 325018,
-  "published_at": "2026-04-23T19:16:44Z",
+  "published_at": "2026-04-30T19:08:48Z",
   "repo_name": "white-space-finder-in-sun-belt-west-states-us-sample-325018",
   "sample_asset_name": "beamstation_325018_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/325018/beamstation_325018_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 55,
-  "sample_sha256": "f8c146c324ec2affd1b1ff36c060661aafcf0e6a4b5898607d848a13fab18a04",
-  "sample_size_bytes": 226785,
-  "total_records": 553
+  "sample_records": 67,
+  "sample_sha256": "ed9b6f8e030c53aa6021032dfdb52f6a58ffd84603b59e247b19f249c24afeaa",
+  "sample_size_bytes": 251630,
+  "total_records": 677
 }
